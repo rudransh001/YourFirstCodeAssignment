@@ -27,7 +27,7 @@ function getsound (arrr)
 	
 	let soundFound= [];
 	console.log = "Working";
-		for (let degree=0; degree<360); {
+		for (let degree=0; degree<360;) {
 		if (soundFound) {
 
 			console.log="Sound found";
